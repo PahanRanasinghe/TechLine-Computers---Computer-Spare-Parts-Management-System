@@ -1,2 +1,2 @@
-# Computer-Spare-Parts-Management-System
-Project on Y2S2 ITP-2150 module
+# TechLine-Computers---Computer-Spare-Parts-Management-System
+Project - Y2S2 ITP-2150
